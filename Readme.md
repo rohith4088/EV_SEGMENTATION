@@ -1,0 +1,1 @@
+customer segmentation on mcdonlads dataset
